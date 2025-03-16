@@ -41,5 +41,3 @@ app.get("/",(req, res)=>{
 app.listen(port, ()=>{
     console.log(`Server is running on http://localhost:${port}`)
 })
-
-//mongodb+srv://bmalkes:Darkside28@cluster0.yj4wf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
